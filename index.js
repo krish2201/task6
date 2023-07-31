@@ -14,7 +14,7 @@ const routing = (
             <Routes>
                <Route path='/' Component={Home}/>
                 <Route path='/a' Component={About}/>
-                <Route path='/yogesh' Component={Join}/>
+                <Route path='/j' Component={Join}/>
 
             </Routes>
         </div>
